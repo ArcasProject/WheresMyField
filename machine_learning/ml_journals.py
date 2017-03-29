@@ -13,7 +13,7 @@ class MachineLearning():
     user"""
     def __init__(self):
         self.name = 'machine-learning'
-        self.data = Article.obj.all()
+        self.data = Article.object.filter(title=self.keyword)
         self.co_authors = []
 
     def journals(self):
