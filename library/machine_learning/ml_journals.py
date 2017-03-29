@@ -1,8 +1,8 @@
 import collections
 import itertools
-import nlp_tools
+from .nlp_tools import *
 from operator import add
-from library import Article
+from library.models import Article
 from sklearn.cluster import KMeans
 
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -50,7 +50,7 @@ class MachineLearning():
 
         tfidf_vectorizer = TfidfVectorizer(max_df=0.8, max_features=200000,
                                            min_df=0.01,
-                                           tokenizer=nlp_tools.tokenize_text,
+                                           tokenizer=tokenize_text,
                                            ngram_range=(2, 3))
 
         tfidf_matrix = tfidf_vectorizer.fit_transform(self.text)
