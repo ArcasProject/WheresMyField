@@ -12,7 +12,7 @@ router.register(r'keyword', views.KeyWordViewSet)
 router.register(r'strategies', views.StrategiesViewSet)
 
 urlpatterns = [
+    url(r'^index', views.viewDashboard),
     url(r'^admin/', admin.site.urls),
-    url(r'^', include(router.urls)),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]
