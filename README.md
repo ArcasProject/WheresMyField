@@ -41,11 +41,12 @@ For example:
  * Enable users to save, download, and share their search results, as a collection resource for the community
 
 Ultimately, the power of exploring the literature via the availble metadata rests on the depth of the data available. The web app has been designed to operate agnostic of database, which would allow future development to call in data from various existing aggregator services and original sources, such as:
-* CORE 
+* CORE (https://core.ac.uk/services)
 * Europe PubMedCentral (biomedical literature)
 * Jisc's PubRouter service https://pubrouter.jisc.ac.uk/
-* SHERPA 
+* SHERPA RoMEO (http://www.sherpa.ac.uk/romeo/index.php)
 * ORCID
 * Grants data (Gateway)
-* UK Data discovery service / other data portals
+* UK research data discovery (https://www.jisc.ac.uk/rd/projects/uk-research-data-discovery) and other data repositories or portals
+* Symplectic elements (http://symplectic.co.uk/)
 
