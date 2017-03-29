@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 from django.template import loader
+from django.shortcuts import get_object_or_404, render, render_to_response
 
 def viewDashboard(request):
-    template = loader.get_template('library/index.html')
-    return HttpResponse(template.render())
+	return render(request, 'library/index.html')
