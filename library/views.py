@@ -16,9 +16,15 @@ def viewDashboard(request):
     ml = MachineLearning()
     ml.getData(keywords)
 
-    keywords = ml.link_keywords()
-    authors = ml.author_connections()
-    journals = ml.journals()
+    ml.link_keywords()
+    ml.author_connections()
+    ml.journals()
+
+    keywords = ml.clusters
+    authors = ml.authors
+    journals = ml.journals_list
+
+    print(journals)
 
     listView = loader.get_template("library/listView.html")
 
