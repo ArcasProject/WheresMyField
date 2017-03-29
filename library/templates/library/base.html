@@ -5,4 +5,40 @@
 
 {% bootstrap_messages %}
 
-Hello world
+Popular keywords::
+
+<ul>
+
+{% for keyword in keywords %}
+
+<li> {{keyword}} </li>
+
+{% endfor %}
+
+</ul>
+
+
+Popular Authors::
+
+<ul>
+
+{% for author in authors %}
+
+<li> {{author}} </li>
+
+{% endfor %}
+
+</ul>
+
+
+Popular Journals::
+
+<ul>
+
+{% for journal in journals %}
+
+<li> {{journal}} </li>
+
+{% endfor %}
+
+</ul>
