@@ -8,39 +8,41 @@ Or I could do a quick web search using the power of extensive metadata for schol
 
 At WheresMyField, I enter a term that is relevant to my new field. I'm interested in game theory. Let's search for that.
 
-![Home](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/home.png)
+![Home](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/1-home.png)
 
 
 WheresMyField uses scholarly literature metadata to present concepts, authors, journals and conferences relevant to my search term.
 
+![Dashboard](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/2-Main_page.png)
+
 I can use the web app to:
 
 1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature.
-![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Learn_the_Lingo.png)
+![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/3-Learn%20the%20Lingo.png)
 
 Perhaps one term better describes my interest - I can search for that instead. 
 
-![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/LTL-strategy.png)
+![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
 
-![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Stategy and game theory.png)
+![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/5-Strategy_and_game_theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
 2. Crack the community - WheresMyField lists the top authors of publications in my field.
 
-![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Crack the community.png)
+![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/6-Crack_the_community.png)
 
 I can explore the networked of connected authors. I think there's something about Maria: let me dig deeper to find out more about her.
 
-![Who's Maria?](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Theres%20something%20about%20Maria.png)
+![Who's Maria?](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/7-Theres_something_about_Maria.png)
 
 I can find out where she works, what she’s published, who she collaborates with, and link to external services like ORCiD, LinkedIn and ResearchGate. 
 
 It looks like Maria is worth knowing; I'll add her to my list of people to connect with (my future friends).
 
-![Befriend Maria!](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Make friends with Maria.png)
+![Befriend Maria!](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/8-Make_friends_with_Maria.png)
 
 Now that I know roughly what the field is about and who the key people are (historically), let's see if I can work out where to look for new research:
 
@@ -48,11 +50,11 @@ Now that I know roughly what the field is about and who the key people are (hist
 
 Now I can follow the relevant research feeds, and find the right meetings to go to. I can dive into a journal's article listing and search for an open-access copy of the latest research using Unpaywall/the OA-doi, or make a request for the author to provide an archive copy using the OA button. 
 
-![Find the field](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Find your field.png)
+![Find the field](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/9-Find_your_field.png)
 
 I can explore upcoming conferences, and find out more, submit, or register. 
 
-![Conferences](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Conferences.png)
+![Conferences](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/10-Conferences.png)
 
 Integration with calendar apps (using Cronofy API) would make for easy scheduling.
 
