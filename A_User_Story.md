@@ -2,7 +2,7 @@
 
 I'm new to a research field. I could spend six months on a literature review in order to understand key papers, people, and the journals and conferences relevant to my field.
 
-Or I could do a quick web search using the power of extensive metadata for scholarly literature. Existing services include Web of Knowledge (closed), the Microsoft Academic API (free up to a point) and CORE. These allow me to explore the data, but not necassarily to make much sense of it or help me use it.
+Or I could do a quick web search using the power of extensive metadata for scholarly literature. Existing services include Web of Knowledge (closed), the Microsoft Academic API (free up to a point), CORE (search engine only) and Yewno Discover (closed). These allow me to explore the data, but not necassarily to make much sense of it or help me use it.
 
 ## Example user journey
 
