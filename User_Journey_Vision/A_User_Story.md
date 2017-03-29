@@ -8,7 +8,7 @@ Or I could do a quick web search using the power of extensive metadata for schol
 
 At WheresMyField, I enter a term that is relevant to my new field. I'm interested in game theory. Let's search for that.
 
-![Home](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/home.png)
+![Home](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/home.png)
 
 
 WheresMyField uses scholarly literature metadata to present concepts, authors, journals and conferences relevant to my search term.
@@ -16,21 +16,21 @@ WheresMyField uses scholarly literature metadata to present concepts, authors, j
 I can use the web app to:
 
 1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature.
-![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Learn_the_Lingo.png)
+![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Learn_the_Lingo.png)
 
 Perhaps one term better describes my interest - I can search for that instead. 
 
-![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/LTL-strategy.png)
+![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/LTL-strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
 
-![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Stategy and game theory.png)
+![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Stategy and game theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
 2. Crack the community - WheresMyField lists the top authors of publications in my field.
 
-![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Crack the community.png)
+![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Crack the community.png)
 
 I can explore the networked of connected authors. I think there's something about Maria: let me dig deeper to find out more about her.
 
@@ -40,11 +40,21 @@ I can find out where she works, what she’s published, who she collaborates wit
 
 It looks like Maria is worth knowing; I'll add her to my list of people to connect with (my future friends).
 
-....
+![Befriend Maria!](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Make friends with Maria.png)
 
 Now that I know roughly what the field is about and who the key people are (historically), let's see if I can work out where to look for new research:
 
-3. Find the field lists the most popular journals and conferences for my field, so that I can follow the relevant research feeds, and find the right meetings to go to. I can dive into a journal's article listing and search for an open-access copy of the latest research using Unpaywall/the OA-doi, or make a requst for the author to provide an archive copy using the OA button. I can explore upcoming conferences, and find out more, submit, or register. Integration with calendar apps (using Cronofy API) will mean easy scheduling.
+3. Find the field lists the most popular journals and conferences for my field.
+
+Now I can follow the relevant research feeds, and find the right meetings to go to. I can dive into a journal's article listing and search for an open-access copy of the latest research using Unpaywall/the OA-doi, or make a request for the author to provide an archive copy using the OA button. 
+
+![Find the field](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Find your field.png)
+
+I can explore upcoming conferences, and find out more, submit, or register. 
+
+![Conferences](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Conferences.png)
+
+Integration with calendar apps (using Cronofy API) would make for easy scheduling.
 
 ## Let's recap
 WheresMyField is the entry point to all my meta-research activities: I can understand related concepts in my research area, I can find the latest research and identify potential collaborators, and I can make sure I'm at the key conferences I need to be at. WheresMyField is a user-focussed app to empower researchers to stay on top of the latest research and manage their meta-research activities using the wealth of scholarly metadata already at our fingertips.
