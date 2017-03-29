@@ -13,9 +13,12 @@ def viewDashboard(request):
             keywords = form.cleaned_data['keywords']
             keywords = keywords.split(' ')
 
-    #keywords = ['Game Theory', 'Prisoners Dilemma', 'Tournament']
-    authors = ['Nikoleta Glynatsi', 'Prince Charles', 'Postman Pat', 'Madonna']
-    journals = ['Management Science', 'Operations Research', 'EJOR']
+    ml = MachineLearning()
+    ml.getData(keywords)
+
+    keywords = ml.link_keywords()
+    authors = ml.author_connections()
+    journals = ml.journals()
 
     listView = loader.get_template("library/listView.html")
 

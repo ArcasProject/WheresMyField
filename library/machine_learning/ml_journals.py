@@ -1,9 +1,12 @@
 import collections
 import itertools
-import nlp_tools
-from operator import add
+from .nlp_tools import *
+import functools
+from operator import add, and_
 from library import Article
 from sklearn.cluster import KMeans
+
+from django.db.models import Q
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
@@ -13,9 +16,11 @@ class MachineLearning():
     user"""
     def __init__(self):
         self.name = 'machine-learning'
-        self.keyword = ''
-        self.data = Article.object.filter(title__contains=self.keyword)
         self.co_authors = []
+
+    def getData(keywords):
+        query = reduce(operator.and_, (Q(first_name__contains = keyword) for keyword in keywords))
+        self.data = Article.object.filter(query)
 
     def journals(self):
         """
