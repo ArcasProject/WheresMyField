@@ -22,11 +22,11 @@ I can use the web app to:
 
 Perhaps one term better describes my interest - I can search for that instead. 
 
-![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
+![Learn the Lingo Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
 
-![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/5-Strategy_and_game_theory.png)
+![Learn the Lingo refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/5-Strategy_and_game_theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
