@@ -16,6 +16,12 @@
       </div>
     </div>
 
+    <div class="container">
+      <form action="/index.html" method="post" class="form">
+          {% csrf_token %}
+          {% bootstrap_form form layout='inline' %}
+      </form>
+    </div>
 
     <div class="container">
       <div class="row">
