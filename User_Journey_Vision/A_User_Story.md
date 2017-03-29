@@ -19,14 +19,28 @@ I can use the web app to:
 ![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Learn_the_Lingo.png)
 
 Perhaps one term better describes my interest - I can search for that instead. 
+
 ![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/LTL-strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
-![Learn the Lingo: refine by combine](WheresMyField/User_Journey_Vision/Stategy and game theory.png)
+
+![Learn the Lingo: refine by combine](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Stategy and game theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
-2. Crack the community - WheresMyField lists the top authors of publications in my field. I can explore the networked of connected authors. I think there's something about Maria: let me dig deeper to find out more about her. I can find out where she works, what she’s published, who she collaborates with, and link to external services like ORCiD, LinkedIn and ResearchGate. It looks like Maria is worth knowing; I'll add her to my list of people to connect with (my future friends).
+2. Crack the community - WheresMyField lists the top authors of publications in my field.
+
+![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Crack the community.png)
+
+I can explore the networked of connected authors. I think there's something about Maria: let me dig deeper to find out more about her.
+
+![Who's Maria?](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/Theres%20something%20about%20Maria.png)
+
+I can find out where she works, what she’s published, who she collaborates with, and link to external services like ORCiD, LinkedIn and ResearchGate. 
+
+It looks like Maria is worth knowing; I'll add her to my list of people to connect with (my future friends).
+
+....
 
 Now that I know roughly what the field is about and who the key people are (historically), let's see if I can work out where to look for new research:
 
