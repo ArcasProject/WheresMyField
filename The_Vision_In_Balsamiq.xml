@@ -1,0 +1,136 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1060" measuredH="550" mockupW="868" mockupH="525">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="207" y="111" w="405" h="-1" measuredW="183" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>strategy%20AND%20game%20theory</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="621" y="110" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="192" y="25" w="868" h="525" measuredW="868" measuredH="525" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="868" h="525" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <text>A%20Web%20Page%0Ahttp%3A//www.wheresmyfield.org</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::MediaControls" x="931" y="109" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Canvas" x="1007" y="109" w="37" h="36" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <href>Fiends%20with%20Maria%26bm%3BFiends%20with%20Maria.bmml%26bm%3BFiends%20with%20Maria.bmml%26bm%3BFiends%20with%20Maria.bmml</href>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::FieldSet" x="207" y="162" w="231" h="349" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20the%20field</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::FieldSet" x="223" y="182" w="-1" h="-1" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Journals</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::IconLabel" x="227" y="198" w="53" h="-1" measuredW="48" measuredH="63" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>PLoS%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::IconLabel" x="287" y="198" w="53" h="-1" measuredW="48" measuredH="63" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ACM</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::IconLabel" x="347" y="198" w="53" h="-1" measuredW="48" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Science</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::IconLabel" x="232" y="268" w="53" h="-1" measuredW="48" measuredH="63" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nature</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::IconLabel" x="287" y="268" w="53" h="-1" measuredW="48" measuredH="63" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AI%20Res.</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::FieldSet" x="223" y="360" w="200" h="129" measuredW="200" measuredH="170" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Conferences</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::IconLabel" x="232" y="382" w="53" h="-1" measuredW="48" measuredH="63" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Infocom</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::IconLabel" x="287" y="382" w="53" h="-1" measuredW="48" measuredH="63" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AAMAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::IconLabel" x="347" y="382" w="53" h="-1" measuredW="48" measuredH="63" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CDC</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::FieldSet" x="468" y="161" w="245" h="350" measuredW="200" measuredH="170" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Infocom</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::DataGrid" x="744" y="172" w="287" h="339" measuredW="303" measuredH="81" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>2017%20Proceedings%20%20v%0AHeterogeneous%20aspirations%20promote%20co-operation%0AEconomic%20games%20on%20the%20internet</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::DataGrid" x="482" y="382" w="216" h="117" measuredW="144" measuredH="141" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Conference%20list%20%20v%0A2018%20%28Honolulu%29%0A2017%20%28Atlanta%29%0A2016%20%28San%20Francisco%29%0A2015%20%28Hong%20Kong%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::FieldSet" x="482" y="182" w="216" h="188" measuredW="200" measuredH="170" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2017</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::List" x="486" y="198" w="207" h="94" measuredW="100" measuredH="126" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>Workshops%3A%0A-%20Prisoner%27s%20Dilemma%0A-%20Nash%20equilibrium%0A-%20Career%20paths</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="490" y="304" w="-1" h="-1" measuredW="54" measuredH="19" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>more%20info</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Link" x="559" y="304" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Link" x="621" y="304" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>apply</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Link" x="490" y="331" w="-1" h="-1" measuredW="119" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>related%20proceedings</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
