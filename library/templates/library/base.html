@@ -1,44 +1,28 @@
 {% load bootstrap3 %}
 
 {% bootstrap_css %}
-{% bootstrap_javascript %}
 
 {% bootstrap_messages %}
 
-Popular keywords::
+<html lang="en">
+  <head>
+    <title>Where is My Field</title>
+</head>
+  <body>
 
-<ul>
+    <div class="container">
+      <div>
+        <h1>Where is My Field?</h1>
+      </div>
+    </div>
 
-{% for keyword in keywords %}
+    {# Based on: https://schier.co/blog/2014/12/05/html-templating-output-a-grid-in-a-single-loop.html  #}
+    <div class="row">
+    {% for v in dataview %}
+    <div class="col-md-3">{{ v }}</div>
+    {% endfor %}
 
-<li> {{keyword}} </li>
+  </body>
+</html>
 
-{% endfor %}
-
-</ul>
-
-
-Popular Authors::
-
-<ul>
-
-{% for author in authors %}
-
-<li> {{author}} </li>
-
-{% endfor %}
-
-</ul>
-
-
-Popular Journals::
-
-<ul>
-
-{% for journal in journals %}
-
-<li> {{journal}} </li>
-
-{% endfor %}
-
-</ul>
+{% bootstrap_javascript %}
