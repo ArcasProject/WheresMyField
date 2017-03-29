@@ -8,14 +8,21 @@ Or I could do a quick web search using the power of extensive metadata for schol
 
 At WheresMyField, I enter a term that is relevant to my new field. I'm interested in game theory. Let's search for that.
 
-![Home](https://github.com/ArcasProject/WheresMyField/User_Journey_Vision/home.png "Home")
+![Home](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/home.png)
 
 
 WheresMyField uses scholarly literature metadata to present concepts, authors, journals and conferences relevant to my search term.
 
 I can use the web app to:
 
-1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature. Perhaps one term better describes my interest - I can search for that instead. Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
+1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature.
+![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/Learn_the_Lingo.png)
+
+Perhaps one term better describes my interest - I can search for that instead. 
+![Learn the Lingo: Strategy](https://www.github.com/ArcasProject/WheresMyField/User_Journey_Vision/LTL-strategy.png)
+
+Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
+![Learn the Lingo: refine by combine](WheresMyField/User_Journey_Vision/Stategy and game theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
