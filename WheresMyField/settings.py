@@ -27,9 +27,14 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+    'DEFAULT_PERMISSION_CLASSES': ('rest_framework.permissions.IsAdminUser',),
+    'PAGE_SIZE': 10
+}
+
 # Application definition
 
 INSTALLED_APPS = [
+    'rest_framework',
     'library.apps.LibraryConfig',
     'django.contrib.admin',
     'django.contrib.auth',
