@@ -1,0 +1,9 @@
+django
+hypothesis
+faker
+pytz
+djangorestframework
+markdown
+django-filter
+beautifulsoup4
+coverage
