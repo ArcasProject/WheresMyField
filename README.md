@@ -4,9 +4,7 @@
 
 When entering a new research field, how do you know which search terms to use to find the right literature? How do you understand who the key researchers are in your new field? Which journals does the field currently publish in?
 
-The long way round to find this out is through months of literature searching and meetings.
-
-Discovering the metadata of research more efficiently is possible. Journal articles are accompanied by freely available structured metadata: journal name, author names, title, abstract. Several services offer entry points to this data, as a means of finding research articles, such as PudMed for the biomedical literature, and understanding the research network, such as Web of Science, Microsoft Academic and Yewno Discover. However, there is no free and open service that empowers researchers from any discipline to quickly understand their research field.
+Understanding a field takes months of literature searching and meetings. There is a more efficient way to visualise the landscape of a research field. Journal articles are accompanied by freely available structured metadata: journal name, author names, title, abstract. Several services offer entry points to this data. To find research articles by keyword, you can use CORE, Google Scholar, PubMed (for biomedical literature) or other search sites, however these services display the results as a list of articles, and we think that a more intuitive visualisation and overview of the data would be more useful as an entry point. To understanding the research network - who's doing what and where, you could use Web of Science, Microsoft Academic or Yewno Discover. However, none of these services are freely available or open-access.
 
 With 'WheresMyField', we provide a free, open, no-login-required service to help any researcher to understanding the landscape of a research field more quickly. 
 
