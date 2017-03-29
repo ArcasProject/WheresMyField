@@ -8,6 +8,10 @@ Or I could do a quick web search using the power of extensive metadata for schol
 
 At WheresMyField, I enter a term that is relevant to my new field. I'm interested in game theory. Let's search for that.
 
+![Home](WheresMyField/User_Journey_Vision/home.png)
+Format: ![Alt Text](url)
+
+
 WheresMyField uses scholarly literature metadata to present concepts, authors, journals and conferences relevant to my search term.
 
 I can use the web app to:
