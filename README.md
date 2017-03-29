@@ -20,7 +20,11 @@ DIAGRAM OF SOFTWARE ARCHITECTURE
 
 ## Roadmap
 
-By building this web app with a modular architecture, we hope that future developers could enhance the features available and add additional features. For example:
+By building this web app with a modular architecture, we hope that future developers could enhance the features available and add additional features. 
+
+Development should be guided by user desire. Our vision is mocked up on Balsamqiq (The_Vision_in_Balasamiq.xml file) and accompanied by a_user_story.md - do you agree? What would you like to see? What would you proritise? Comments and feedback welcome at roadmap issue.
+
+For example:
 * Similar keywords:
  * Strengthen your search by easily including additional keywords of interest and excluding irrelevant results
 * Author network:
