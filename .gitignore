@@ -1,2 +1,4 @@
 .DS_Store
 *.sqlite3
+*.hypothesis*
+*__pycache__*
