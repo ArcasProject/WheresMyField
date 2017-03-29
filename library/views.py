@@ -16,15 +16,9 @@ def viewDashboard(request):
     ml = MachineLearning()
     ml.getData(keywords)
 
-    ml.link_keywords()
-    ml.author_connections()
-    ml.journals()
-
-    keywords = ml.clusters
-    authors = ml.authors
-    journals = ml.journals_list
-
-    print(journals)
+    keywords = ml.link_keywords
+    authors = ml.author_connections
+    journals = ml.journals
 
     listView = loader.get_template("library/listView.html")
 
@@ -32,4 +26,4 @@ def viewDashboard(request):
     authorsView  = listView.render(context = {'blocktitle': "Popular Authors:" , 'listitems':authors })
     keywordsView = listView.render(context = {'blocktitle': "Popular Keywords:", 'listitems':keywords})
 
-    return render(request, 'library/base.html', {'form' : SearchForm(), 'dataview':[journalsView, authorsView, keywordsView]})
+    return render(request, 'library/base.html', {'form' : SearchForm(), 'dataview':[journalsView, keywordsView, authorsView]})
