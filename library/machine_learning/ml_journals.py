@@ -14,7 +14,7 @@ class MachineLearning():
     def __init__(self):
         self.name = 'machine-learning'
         self.keyword = ''
-        self.data = Article.object.filter(title=self.keyword)
+        self.data = Article.object.filter(title__contains=self.keyword)
         self.co_authors = []
 
     def journals(self):
