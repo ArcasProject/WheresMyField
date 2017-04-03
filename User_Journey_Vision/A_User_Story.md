@@ -8,31 +8,31 @@ Or I could do a quick web search using the power of extensive metadata for schol
 
 At WheresMyField, I enter a term that is relevant to my new field. I'm interested in game theory. Let's search for that.
 
-![Home](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/1-home.png)
+![Home](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/1-home.png)
 
 
 WheresMyField uses scholarly literature metadata to present concepts, authors, journals and conferences relevant to my search term.
 
-![Dashboard](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/2-Main_page.png)
+![Dashboard](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/2-Main_page.png)
 
 I can use the web app to:
 
 1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature.
-![Learn the Lingo](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/3-Learn%20the%20Lingo.png)
+![Learn the Lingo](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/3-Learn%20the%20Lingo.png)
 
 Perhaps one term better describes my interest - I can search for that instead. 
 
-![Learn the Lingo Strategy](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
+![Learn the Lingo Strategy](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
 
-![Learn the Lingo refine by combine](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/5-Strategy_and_game_theory.png)
+![Learn the Lingo refine by combine](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/5-Strategy_and_game_theory.png)
 
 Once I have a better grasp of the concepts in my field, I can use my refined search to:
 
 2. Crack the community - WheresMyField lists the top authors of publications in my field.
 
-![Crack the Community](https://www.github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/6-Crack_the_community.png)
+![Crack the Community](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/6-Crack_the_community.png)
 
 I can explore the networked of connected authors. I think there's something about Maria: let me dig deeper to find out more about her.
 
