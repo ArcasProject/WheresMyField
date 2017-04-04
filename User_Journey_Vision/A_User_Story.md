@@ -18,11 +18,11 @@ WheresMyField uses scholarly literature metadata to present concepts, authors, j
 I can use the web app to:
 
 1. Learn the lingo - learn and understand the top terms commonly associated with my search term in the research literature.
-![Learn the Lingo](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/3-Learn%20the%20Lingo.png)
+![Learn the Lingo](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/3-Learn%20the%20lingo.png)
 
 Perhaps one term better describes my interest - I can search for that instead. 
 
-![Learn the Lingo Strategy](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL-Strategy.png)
+![Learn the Lingo Strategy](https://github.com/ArcasProject/WheresMyField/blob/master/User_Journey_Vision/4-LTL_Strategy.png)
 
 Or perhaps I want to use these additional concepts to refine my search (including relevant, excluding irrelevant terms).
 
